@@ -1,0 +1,12 @@
+/home/ccuser/workspace/csharp-caesar-cipher/bin/Debug/netcoreapp2.2/CaesarCipher.deps.json
+/home/ccuser/workspace/csharp-caesar-cipher/bin/Debug/netcoreapp2.2/CaesarCipher.runtimeconfig.json
+/home/ccuser/workspace/csharp-caesar-cipher/bin/Debug/netcoreapp2.2/CaesarCipher.runtimeconfig.dev.json
+/home/ccuser/workspace/csharp-caesar-cipher/bin/Debug/netcoreapp2.2/CaesarCipher.dll
+/home/ccuser/workspace/csharp-caesar-cipher/bin/Debug/netcoreapp2.2/CaesarCipher.pdb
+/home/ccuser/workspace/csharp-caesar-cipher/obj/Debug/netcoreapp2.2/CaesarCipher.csprojAssemblyReference.cache
+/home/ccuser/workspace/csharp-caesar-cipher/obj/Debug/netcoreapp2.2/CaesarCipher.csproj.CoreCompileInputs.cache
+/home/ccuser/workspace/csharp-caesar-cipher/obj/Debug/netcoreapp2.2/CaesarCipher.AssemblyInfoInputs.cache
+/home/ccuser/workspace/csharp-caesar-cipher/obj/Debug/netcoreapp2.2/CaesarCipher.AssemblyInfo.cs
+/home/ccuser/workspace/csharp-caesar-cipher/obj/Debug/netcoreapp2.2/CaesarCipher.dll
+/home/ccuser/workspace/csharp-caesar-cipher/obj/Debug/netcoreapp2.2/CaesarCipher.pdb
+/home/ccuser/workspace/csharp-caesar-cipher/obj/Debug/netcoreapp2.2/CaesarCipher.genruntimeconfig.cache
